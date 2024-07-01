@@ -1,6 +1,7 @@
 # Microsoft Excel Data Analysis and Dashboard Reporting Project
 
 This project showcases my ability to utilize Microsoft Excel for comprehensive data analysis and interactive dashboard creation. Below is a detailed overview of the project:
+
 ![Dashboard Screenshot](https://github.com/danartech/Excel-Data-Analysis-Dashboard-Project/blob/main/Excel%20Data%20Analysis%20Picture.png)
 
 ## Objective
